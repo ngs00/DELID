@@ -13,7 +13,8 @@ We employed nine benchmark molecular datasets constructed by real-world chemical
 The benchmark molecular datasets were selected from well-known databases in molecular science and biology [1, 2, 3].
 For comprehensive evaluations, we selected the benchmark molecular datasets from four different chemical applications: physicochemistry, toxicity, pharmacokinetics, and optics.
 The characteristics of the benchmark molecular datasets are summarized in the paper.
-<span style="color:red">Text content</span>
+```diff
+- text in red
 
 **Dataset Repositories**
 - GWBG dataset: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104
