@@ -5,8 +5,8 @@ Electron-level information is an essential attribute determining the physical an
 
 
 ## Run
-- train_src_model.py: A script to train the source models.
-- calc_transferability.py: A script to calculate the transferability based on SCOTL.
+- ``train_src_model.py``: A script to train the source models.
+- ``calc_transferability.py``: A script to calculate the transferability based on SCOTL.
 
 
 ## Datasets
