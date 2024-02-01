@@ -13,7 +13,7 @@ We employed nine benchmark molecular datasets constructed by real-world chemical
 The benchmark molecular datasets were selected from well-known databases in molecular science and biology [1, 2, 3].
 For comprehensive evaluations, we selected the benchmark molecular datasets from four different chemical applications: physicochemistry, toxicity, pharmacokinetics, and optics.
 The characteristics of the benchmark molecular datasets are summarized in the paper.
-$${\color{red}Red}$$
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 ## References
 [1] Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., ... & Pande, V. (2018). MoleculeNet: a benchmark for molecular machine learning. Chemical science, 9(2), 513-530.
