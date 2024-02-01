@@ -1,4 +1,4 @@
 # DELID
----------
+
 ## Abstract
 Electron-level information is an essential attribute determining the physical and chemical properties of molecules. However, the electron-level information is not accessible in most real-world molecules due to extensive computational costs to determine uncertain electronic structures. For this reason, existing methods for molecular representation learning have remained in the representation learning on simplified atom-level molecular descriptors. This paper proposes a molecular representation learning method based on a self-supervised conditional diffusion method to estimate the electron-level information about arbitrary complex real-world molecules from readily accessible fragmented information. The proposed method achieved state-of-the-art prediction accuracy on extensive real-world molecular datasets.
