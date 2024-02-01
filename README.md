@@ -5,15 +5,16 @@ Electron-level information is an essential attribute determining the physical an
 
 
 ## Run
-- ``train_src_model.py``: A script to train the source models.
-- ``calc_transferability.py``: A script to calculate the transferability based on SCOTL.
+- ``exec.py``: A script to train and evaluate DELID for a given dataset.
 
 
 ## Datasets
-The GWBC and HOIP-HSE datasets, which were used as the source calculation datasets, are available in [1] and [2], respectively.
-The lists of the materials in the MPS and MPL datasets are presented in [the public repository of CGCNN](https://github.com/txie-93/cgcnn).
-The crystal structures of all materials in the source calculations datasets are available at the Materials Project database [3].
-All target experimental datasets are publicly available in their original papers, as presented in Table 1 of the paper.
+We employed nine benchmark molecular datasets constructed by real-world chemical experiments.
+The benchmark molecular datasets were selected from well-known databases in molecular science and biology [1, 2, 3].
+For comprehensive evaluations, we selected the benchmark molecular datasets from four different chemical applications: physicochemistry, toxicity, pharmacokinetics, and optics.
+The characteristics of the benchmark molecular datasets are summarized in the paper.
+
+U+275x7 fdasfdsafdsa
 
 **Dataset Repositories**
 - GWBG dataset: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104
@@ -24,3 +25,9 @@ All target experimental datasets are publicly available in their original papers
 - TM dataset: https://github.com/ngs00/simd
 - EBG dataset: https://pubs.acs.org/doi/10.1021/acs.jpclett.8b00124
 - GTT dataset: https://figshare.com/articles/dataset/MAST-ML_Education_Datasets/7017254
+
+
+## References
+[1] Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., ... & Pande, V. (2018). MoleculeNet: a benchmark for molecular machine learning. Chemical science, 9(2), 513-530.
+[2] Wu, K., & Wei, G. W. (2018). Quantitative toxicity prediction using topology based multitask deep neural networks. Journal of chemical information and modeling, 58(2), 520-531.
+[3] Mendez, D., Gaulton, A., Bento, A. P., Chambers, J., De Veij, M., Félix, E., ... & Leach, A. R. (2019). ChEMBL: towards direct deposition of bioassay data. Nucleic acids research, 47(D1), D930-D940.
