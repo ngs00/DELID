@@ -14,7 +14,7 @@ The benchmark molecular datasets were selected from well-known databases in mole
 For comprehensive evaluations, we selected the benchmark molecular datasets from four different chemical applications: physicochemistry, toxicity, pharmacokinetics, and optics.
 The characteristics of the benchmark molecular datasets are summarized in the paper.
 
-``##Never distribute the datasets in this repository##``
+``Never distribute the datasets in this repository. All rights reserved by the authors of the original papers.``
 
 
 ## References
