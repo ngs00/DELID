@@ -16,17 +16,6 @@ The characteristics of the benchmark molecular datasets are summarized in the pa
 ```diff
 - text in red
 
-**Dataset Repositories**
-- GWBG dataset: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.115104
-- HOIP-HSE dataset: https://datadryad.org/stash/dataset/doi:10.5061/dryad.gq3rg
-- MPS and MPL datasets: https://next-gen.materialsproject.org/
-- EFE dataset: https://figshare.com/collections/Experimental_formation_enthalpies_for_intermetallic_phases_and_other_inorganic_compounds/3822835
-- EU-TQT dataset: https://pubs.acs.org/doi/10.1021/acsami.9b16065
-- TM dataset: https://github.com/ngs00/simd
-- EBG dataset: https://pubs.acs.org/doi/10.1021/acs.jpclett.8b00124
-- GTT dataset: https://figshare.com/articles/dataset/MAST-ML_Education_Datasets/7017254
-
-
 ## References
 [1] Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., ... & Pande, V. (2018). MoleculeNet: a benchmark for molecular machine learning. Chemical science, 9(2), 513-530.
 [2] Wu, K., & Wei, G. W. (2018). Quantitative toxicity prediction using topology based multitask deep neural networks. Journal of chemical information and modeling, 58(2), 520-531.
