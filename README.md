@@ -10,7 +10,7 @@ Electron-level information is an essential attribute determining the physical an
 
 ## Datasets
 We employed nine benchmark molecular datasets constructed by real-world chemical experiments.
-The benchmark molecular datasets were selected from well-known databases in molecular science and biology [1, 2, 3].
+The benchmark molecular datasets were selected from well-known databases in molecular science and biology [1,2,3,4].
 For comprehensive evaluations, we selected the benchmark molecular datasets from four different chemical applications: physicochemistry, toxicity, pharmacokinetics, and optics.
 The characteristics of the benchmark molecular datasets are summarized in the paper.
 
@@ -19,5 +19,9 @@ The characteristics of the benchmark molecular datasets are summarized in the pa
 
 ## References
 [1] Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., ... & Pande, V. (2018). MoleculeNet: a benchmark for molecular machine learning. Chemical science, 9(2), 513-530.
+
 [2] Wu, K., & Wei, G. W. (2018). Quantitative toxicity prediction using topology based multitask deep neural networks. Journal of chemical information and modeling, 58(2), 520-531.
+
 [3] Mendez, D., Gaulton, A., Bento, A. P., Chambers, J., De Veij, M., Félix, E., ... & Leach, A. R. (2019). ChEMBL: towards direct deposition of bioassay data. Nucleic acids research, 47(D1), D930-D940.
+
+[4] Joung, J. F., Han, M., Jeong, M., & Park, S. (2020). Experimental database of optical properties of organic compounds. Scientific data, 7(1), 295.
