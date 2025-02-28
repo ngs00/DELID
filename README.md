@@ -10,7 +10,7 @@ You can train and evaluate DELID by executing ``exec.py``.
 
 # Notice
 - Please check the hyperparameter settings in Appendix F of the paper.
-- An example Lipop dataset in this project is provided in [1].
+- An example Lipop dataset in this project was provided in [1].
 
 # Reference
 [1] Wu, Z., Ramsundar, B., Feinberg, E. N., Gomes, J., Geniesse, C., Pappu, A. S., ... & Pande, V. (2018). MoleculeNet: a benchmark for molecular machine learning. Chemical science, 9(2), 513-530.
